@@ -1,0 +1,3 @@
+2026-04-11 10:37:04:374 | INFO | [REGISTER] User ID: ANONYMOUS | Phone: 0369539815 | IP: ::ffff:127.0.0.1 | Status: SUCCESS | Message: User registered successfully
+2026-04-11 10:37:24:3724 | INFO | [LOGIN] User ID: 34 | Phone: 0369539815 | IP: ::ffff:127.0.0.1 | Status: SUCCESS | Message: Login successful
+2026-04-11 10:39:02:392 | INFO | [LOGIN] User ID: 34 | Phone: 0369539815 | IP: ::1 | Status: SUCCESS | Message: Login successful
